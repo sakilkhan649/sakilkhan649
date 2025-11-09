@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm MD SAKIL HOSSION</h1>
+<h1 align="center">Hi 👋, I'm MD SAKIL HOSSION</h1>
 <h3 align="center">Flutter | Dart | REST API | GetX | MVC | Responsive UI</h3>
 
 - 🔭 I’m currently working on [WeatherAppZero](https://github.com/sakilkhan649/weatherappzero.git)
