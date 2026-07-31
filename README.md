@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 WELCOME TO MY GITHUB PROFILE 🚀
-### ⚡ High-Performance Flutter & Dart Developer | iOS, Android & Web Artisan ⚡
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> **WELCOME TO MY FLUTTER DEVELOPER PROFILE** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+### 💙 Crafting High-Performance Cross-Platform Apps with Flutter & Dart 💙
 
 <a href="https://sakil-portfolio-836cf.web.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20LIVE%20PORTFOLIO%20WEBSITE-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=00D2B4&labelColor=112233" alt="Live Portfolio Website" />
+  <img src="https://img.shields.io/badge/🌐_VISIT_MY_LIVE_INTERACTIVE_PORTFOLIO-02569B?style=for-the-badge&logo=googlechrome&logoColor=00D2B4&labelColor=0D1B2A" alt="Live Portfolio Website" />
 </a>
 <a href="https://sakil-portfolio-836cf.web.app/" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=sakilkhan649&label=PROFILE+VIEWS&style=for-the-badge&color=00D2B4" alt="Profile Views" />
@@ -12,7 +12,25 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D2B4&center=true&vCenter=true&width=750&lines=Flutter+%7C+Dart+%7C+REST+API+%7C+GetX+%7C+Firebase;Building+Cross-Platform+Mobile+Apps+for+iOS+%26+Android;Published+Apps+on+Apple+App+Store+%26+Google+Play+Store;Clean+Architecture+%7C+Socket.io+%7C+Responsive+UI" alt="Typing SVG" />
+<!-- Animated Neon Cyan/Blue Line Separator (Flutter Theme) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line" />
+
+<br/>
+
+<!-- Animated Flutter Typing Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=54C5F8&center=true&vCenter=true&width=780&lines=Flutter+%7C+Dart+%7C+REST+API+%7C+GetX+%7C+Firebase;Building+Smooth%2C+60FPS+Mobile+Apps+for+iOS+%26+Android;Published+Apps+on+Apple+App+Store+%26+Google+Play+Store;Clean+Architecture+%7C+Socket.io+%7C+Responsive+UI" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Animated Coding Developer GIF + Flutter Badges -->
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Coding Animation" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/60_FPS-Smooth_Animations-00D2B4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1B2A" alt="60 FPS" />
+  <img src="https://img.shields.io/badge/Cross_Platform-iOS_%7C_Android_%7C_Web-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1B2A" alt="Cross Platform" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-MVC_%7C_GetX-54C5F8?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1B2A" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Real_Time-Socket.io_%7C_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1B2A" alt="Real Time" />
+</p>
 
 </div>
 
@@ -28,7 +46,10 @@
 - 📫 **Contact Me:** [mdsakilkhan649@gmail.com](mailto:mdsakilkhan649@gmail.com) | Phone: `+880 1521-713748`
 - ⚡ **Fun Fact:** I can turn a blank Flutter project into a working app before my coffee gets cold! ☕
 
----
+<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line" />
+</p>
 
 ## 📱 Featured Published Apps & Projects
 
@@ -43,7 +64,10 @@ Here are some of the key production applications and projects from my portfolio 
 | **[CalculatorAppZero](https://github.com/sakilkhan649/calculatorappzero)** | `Flutter` `Dart` `State Management` | Sleek and responsive cross-platform calculator application with advanced mathematical operations and custom themes. | **Open Source** |
 | **[Products Delivery](https://github.com/sakilkhan649/products_delivery)** | `Flutter` `E-Commerce` `REST API` | Multi-vendor product delivery and logistics management app with clean UI and order tracking. | **Open Source** |
 
----
+<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line" />
+</p>
 
 ## 🛠️ Technical Arsenal & Skills
 
@@ -84,10 +108,24 @@ Here are some of the key production applications and projects from my portfolio 
   </a>
 </p>
 
----
+<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line" />
+</p>
 
-## 📊 GitHub Analytics & Contribution Stats
+## 📈 Real-Time GitHub Contribution & Activity Graphs
 
+### 📊 Daily Contribution Activity Chart (Flutter Cyan Theme)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakilkhan649&bg_color=0D1B2A&color=54C5F8&line=00D2B4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
+</p>
+
+### 🏆 GitHub Trophies & Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakilkhan649&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+### 📈 Contribution Analytics & Streak Dashboard
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakilkhan649&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A" alt="sakilkhan649's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilkhan649&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A" alt="Top Languages" />
@@ -96,7 +134,10 @@ Here are some of the key production applications and projects from my portfolio 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakilkhan649&theme=tokyonight&hide_border=true&background=0D1B2A" alt="GitHub Streak" />
 </p>
 
----
+<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line" />
+</p>
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -120,9 +161,6 @@ I am always open to discussing **Flutter mobile/web app development**, new proje
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="800" />
-</p>
 <p align="center">
   <b>🌟 Crafted with passion & Flutter by MD SAKIL HOSSEN 🌟</b>
 </p>
