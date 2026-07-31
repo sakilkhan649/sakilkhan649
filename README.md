@@ -1,37 +1,38 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" alt="WELCOME TO MY GITHUB PROFILE" />
+  <br/><br/>
+</div>
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> **WELCOME TO MY FLUTTER DEVELOPER PROFILE** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
-### 💙 Crafting High-Performance Cross-Platform Apps with Flutter & Dart 💙
+**i love Flutter & Dart code**&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" width="50" />&nbsp;&nbsp;**and 60FPS mobile apps**&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/unicorn.gif" width="50" />
 
-<a href="https://sakil-portfolio-836cf.web.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_VISIT_MY_LIVE_INTERACTIVE_PORTFOLIO-02569B?style=for-the-badge&logo=googlechrome&logoColor=00D2B4&labelColor=0D1B2A" alt="Live Portfolio Website" />
-</a>
-<a href="https://sakil-portfolio-836cf.web.app/" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=sakilkhan649&label=PROFILE+VIEWS&style=for-the-badge&color=00D2B4" alt="Profile Views" />
-</a>
+<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/party-furby.gif" align="right" width="60" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/under-construction.gif" width="100%" />
 
 <br/><br/>
 
-<!-- Animated Neon Cyan/Blue Line Separator (Flutter Theme) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line" />
+check out my live interactive web portfolio: **[sakil-portfolio-836cf.web.app](https://sakil-portfolio-836cf.web.app/)** <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/hot.gif" />
+
+and my latest published mobile app: **[COP UK - PIWC Stoneyburn](https://github.com/sakilkhan649/handy.git)** <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/hot.gif" />
+
+<br/>
+
+<div align="center">
+  <a href="https://sakil-portfolio-836cf.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_LIVE_INTERACTIVE_PORTFOLIO-02569B?style=for-the-badge&logo=googlechrome&logoColor=00D2B4&labelColor=0D1B2A" alt="Live Portfolio Website" />
+  </a>
+  <a href="https://sakil-portfolio-836cf.web.app/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sakilkhan649&label=PROFILE+VIEWS&style=for-the-badge&color=00D2B4" alt="Profile Views" />
+  </a>
+</div>
 
 <br/>
 
 <!-- Animated Flutter Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=54C5F8&center=true&vCenter=true&width=780&lines=Flutter+%7C+Dart+%7C+REST+API+%7C+GetX+%7C+Firebase;Building+Smooth%2C+60FPS+Mobile+Apps+for+iOS+%26+Android;Published+Apps+on+Apple+App+Store+%26+Google+Play+Store;Clean+Architecture+%7C+Socket.io+%7C+Responsive+UI" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- Animated Coding Developer GIF + Flutter Badges -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Coding Animation" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/60_FPS-Smooth_Animations-00D2B4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1B2A" alt="60 FPS" />
-  <img src="https://img.shields.io/badge/Cross_Platform-iOS_%7C_Android_%7C_Web-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1B2A" alt="Cross Platform" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-MVC_%7C_GetX-54C5F8?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1B2A" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/Real_Time-Socket.io_%7C_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1B2A" alt="Real Time" />
-</p>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=54C5F8&center=true&vCenter=true&width=780&lines=Flutter+%7C+Dart+%7C+REST+API+%7C+GetX+%7C+Firebase;Building+Smooth%2C+60FPS+Mobile+Apps+for+iOS+%26+Android;Published+Apps+on+Apple+App+Store+%26+Google+Play+Store;Clean+Architecture+%7C+Socket.io+%7C+Responsive+UI" alt="Typing SVG" />
 </div>
 
 ---
@@ -46,10 +47,7 @@
 - 📫 **Contact Me:** [mdsakilkhan649@gmail.com](mailto:mdsakilkhan649@gmail.com) | Phone: `+880 1521-713748`
 - ⚡ **Fun Fact:** I can turn a blank Flutter project into a working app before my coffee gets cold! ☕
 
-<br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line" />
-</p>
+---
 
 ## 📱 Featured Published Apps & Projects
 
@@ -64,10 +62,7 @@ Here are some of the key production applications and projects from my portfolio 
 | **[CalculatorAppZero](https://github.com/sakilkhan649/calculatorappzero)** | `Flutter` `Dart` `State Management` | Sleek and responsive cross-platform calculator application with advanced mathematical operations and custom themes. | **Open Source** |
 | **[Products Delivery](https://github.com/sakilkhan649/products_delivery)** | `Flutter` `E-Commerce` `REST API` | Multi-vendor product delivery and logistics management app with clean UI and order tracking. | **Open Source** |
 
-<br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line" />
-</p>
+---
 
 ## 🛠️ Technical Arsenal & Skills
 
@@ -108,10 +103,7 @@ Here are some of the key production applications and projects from my portfolio 
   </a>
 </p>
 
-<br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line" />
-</p>
+---
 
 ## 📈 Real-Time GitHub Contribution & Activity Graphs
 
@@ -134,10 +126,7 @@ Here are some of the key production applications and projects from my portfolio 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakilkhan649&theme=tokyonight&hide_border=true&background=0D1B2A" alt="GitHub Streak" />
 </p>
 
-<br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line" />
-</p>
+---
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -159,6 +148,23 @@ I am always open to discussing **Flutter mobile/web app development**, new proje
   <a href="mailto:mdsakilkhan649@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<br/>
+
+<!-- Retro Web Badges and Animated Flames Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/counter.gif" />
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge1.gif" />
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge2.gif" />
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge3.png" />
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge4.gif" />
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge5.gif" />
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge6.gif" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" width="100%" alt="flames" />
 </p>
 
 <p align="center">
